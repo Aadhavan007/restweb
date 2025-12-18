@@ -598,13 +598,12 @@ body {
 
 ## OUTPUT:
 
-```
+
 ![alt text](<Screenshot (125).png>)
 ![alt text](<Screenshot (126).png>)
 ![alt text](<Screenshot (127).png>)
 ![alt text](<Screenshot (128).png>)
 ![alt text](<Screenshot (129).png>)
-```
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
