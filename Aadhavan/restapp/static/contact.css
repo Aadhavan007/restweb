@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    font-family: Georgia, serif;
+    background-color: #fffaf3;
+    color: #3b2f2f;
+}
+
+
+
+.navigation-bar {
+    background-color: #3b2f2f;
+    padding: 15px;
+    text-align: left;
+}
+
+.navigation-menu a {
+    color: #fffaf3;
+    text-decoration: none;
+    margin: 0 22px;
+    font-size: 18px;
+}
+
+.navigation-menu a:hover {
+    text-decoration: underline;
+}
+
+
+
+.contact-section {
+    max-width: 800px;
+    margin: 70px auto;
+    padding: 10px;
+    text-align: center;
+}
+
+.contact-title {
+    font-size: 42px;
+    margin-bottom: 15px;
+}
+
+.contact-description {
+    font-size: 18px;
+    line-height: 1.7;
+    margin-bottom: 35px;
+}
+
+.contact-details {
+    margin-bottom: 40px;
+    font-size: 18px;
+}
+
+
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.contact-input{
+    padding: 12px;
+    font-size: 16px;
+    font-family: Georgia, serif;
+    border: 1px solid #c8bfb6;
+}
+
+.contact-textarea {
+    padding: 12px;
+    font-size: 16px;
+    font-family: Georgia, serif;
+    border: 1px solid #c8bfb6;
+}
+
+.contact-textarea {
+    min-height: 120px;
+}
+
+.contact-submit-button {
+    background-color: #3b2f2f;
+    color: #fffaf3;
+    padding: 12px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.contact-submit-button:hover {
+    background-color: #2f2525;
+}
+
+
+.page-footer {
+    background-color: #3b2f2f;
+    color: #fffaf3;
+    text-align: center;
+    padding: 1px;
+    font-size: 15px;
+}
